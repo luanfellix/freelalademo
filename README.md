@@ -1,4 +1,4 @@
-Freelala é um projeto que foi feito com um propósito de estudo, mas que resolveria um problema real. Ele é uma plataforma web simples para freelancers divulgarem seus serviços e clientes encontrarem prestadores de forma prática. O sistema permite a criação de perfis personalizados com foto, descrição, serviços cadastrados e avaliações entre usuários.
+Freelala é um projeto que foi feito com um propósito de estudo, mas que resolveria um problema real. Ele é uma plataforma web para freelancers divulgarem seus serviços e clientes encontrarem prestadores de forma prática. O sistema permite a criação de perfis personalizados com foto, descrição, serviços cadastrados e avaliações entre usuários.
 
 Funcionalidades:
 
